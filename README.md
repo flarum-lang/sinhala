@@ -1,6 +1,6 @@
 # <a href="https://flarum.org">ෆ්ලාරම්</a> සඳහා සිංහල භාෂා ඇසුරුම
 
-<h5 align="center">Sinhala language pack for <a href="https://flarum.org">Flarum</a></h5>
+<h5>Sinhala language pack for <a href="https://flarum.org">Flarum</a></h5>
 
 ### අවම අවශ්‍යතා
 
