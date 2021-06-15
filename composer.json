@@ -2,7 +2,6 @@
 	"name": "flarum-lang/sinhala",
 	"type": "flarum-extension",
 	"description": "Sinhala language pack for Flarum.",
-	"homepage": "https://github.com/flarum-lang/sinhala",
 	"keywords": [
 		"locale",
 		"flarum",
@@ -18,7 +17,8 @@
 	],
 	"support": {
 		"issues": "https://github.com/flarum-lang/sinhala/issues/new",
-		"source": "https://github.com/flarum-lang/sinhala"
+		"source": "https://github.com/flarum-lang/sinhala",
+		"forum": "https://discuss.flarum.org/d/27076"
 	},
 	"require": {
 		"flarum/core": "^1.0"
@@ -41,8 +41,8 @@
 			"code": "si",
 			"title": "සිංහල"
 		},
-		"flagrow": {
-			"discuss": "https://discuss.flarum.org/d/27076-sinhala-language-pack"
+		"extiverse": {
+			"discuss": "https://discuss.flarum.org/d/27076"
 		}
 	}
 }
