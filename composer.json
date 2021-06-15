@@ -1,8 +1,8 @@
 {
-	"name": "flarum-sinhala/language-pack",
+	"name": "flarum-lang/sinhala",
 	"type": "flarum-extension",
 	"description": "Sinhala language pack for Flarum.",
-	"homepage": "https://gitlab.com/flarum-sinhala/language-pack",
+	"homepage": "https://github.com/flarum-lang/sinhala",
 	"keywords": [
 		"locale",
 		"flarum",
@@ -17,8 +17,8 @@
 		}
 	],
 	"support": {
-		"issues": "https://gitlab.com/flarum-sinhala/language-pack/-/issues/new",
-		"source": "https://gitlab.com/flarum-sinhala/language-pack/"
+		"issues": "https://github.com/flarum-lang/sinhala/issues/new",
+		"source": "https://github.com/flarum-lang/sinhala"
 	},
 	"require": {
 		"flarum/core": "^1.0"
