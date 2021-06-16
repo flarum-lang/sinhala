@@ -7,3 +7,7 @@ simonxeko-follow-users:
     sub_controls:
       follow_button: '=> simonxeko-follow-users.ref.follow'
       following_button: '=> simonxeko-follow-users.ref.following'
+      hiding_button: '=> simonxeko-follow-users.ref.hiding'
+      hiding_text: 'සියලුම සාකච්ඡා පිටුවෙන් සාකච්ඡා සඟවන්න.'
+      ignoring_button: '=> simonxeko-follow-users.ref.ignoring'
+      lurking_button: '=> simonxeko-follow-users.ref.lurking'

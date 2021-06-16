@@ -4,6 +4,9 @@
 
 clarkwinkelmann-catch-the-fish:
   forum:
+    caught-fish-modal:
+      submit-continue: ඉදිරියට
+      submit-name: 'නම සුරකින්න'
     moderate:
       add: 'එකතු කරන්න'
       edit: සංස්කරණය

@@ -7,6 +7,12 @@ kyrne-shout:
     permissions:
       start_label: 'පුද්ගලික සංවාද අරඹන්න'
   forum:
+    chat:
+      cant_start: 'සංවාදය ඇරඹීමට නොහැකියි'
+      messages_multiple: 'මුළු පණිවිඩ {count}'
+      messages_single: 'නව සංවාදය'
+      send: 'පණිවිඩය යවන්න'
+      start: 'සංවාදය අරඹන්න'
     dropdown:
       tooltip: සංවාද
     modal:
@@ -14,3 +20,6 @@ kyrne-shout:
       title: 'සංවාදය අරඹන්න'
     setup:
       button_import: 'ආයාත කරන්න'
+      confirm_password: 'මුරපදය තහවුරු කරන්න'
+      passwords_mismatch: 'මුරපද නොගැලපුණී'
+      success: 'පුද්ගලික පණිවිඩ යැවීම දැන් සූදානම්, ඔබගේ පිටුව දැන් නැවත පූරණය වේ...'

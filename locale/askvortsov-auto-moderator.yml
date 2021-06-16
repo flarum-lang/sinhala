@@ -4,7 +4,12 @@
 
 askvortsov-auto-moderator:
   admin:
+    action_drivers:
+      add_to_group: 'සමූහයකට එකතු කරන්න'
+      remove_from_group: 'සමූහයෙන් ඉවත් කරන්න'
+      suspend: අත්හිටුවන්න
     group_selector:
       placeholder: 'සමූහයක් තෝරන්න'
     metric_drivers:
+      best_answers: 'හොඳම පිළිතුරු'
       discussions_started: 'සාකච්ඡා ආරම්භ විය'
