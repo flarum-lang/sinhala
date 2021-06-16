@@ -7,6 +7,94 @@ core:
     appearance:
       colored_header_label: 'වර්ණික ශීර්ෂය'
       colors_heading: වර්ණ
+      colors_text: 'ඔබගේ සංසදය තේමා කිරීමට වර්ණ දෙකක් තෝරන්න. පළමුවැන්න ඉස්මතු කිරීමේ වර්ණයක් ලෙස භාවිතා කරන අතර දෙවැන්න පසුබිම් අංග අලංකාර කිරීමට යොදා ගනී.'
+      custom_footer_text: '=> core.ref.custom_footer_text'
+      custom_header_heading: 'අභිරුචි ශීර්ෂය'
+      custom_header_text: '=> core.ref.custom_header_text'
+      dark_mode_label: 'අඳුරු ආකාරය'
+      edit_css_button: 'අභිරුචි සීඑස්එස් සංස්කරණය'
+      edit_footer_button: '=> core.ref.custom_footer_title'
+      edit_header_button: '=> core.ref.custom_header_title'
+      logo_heading: ලාංඡනය
+    basics:
+      all_discussions_label: '=> core.ref.all_discussions'
+      default_language_heading: 'පොදු භාෂාව'
+      home_page_heading: 'මුල් පිටුව'
+    dashboard:
+      clear_cache_button: 'නිහිතය හිස්කරන්න'
+      tools_button: මෙවලම්
+    edit_group:
+      icon_label: '=> core.ref.icon'
+      icon_text: '=> core.ref.icon_text'
+      name_label: නම
+      submit_button: '=> core.ref.save_changes'
+      title: 'සමූහයක් සාදන්න'
+    edit_header:
+      customize_text: '=> core.ref.custom_header_text'
+      submit_button: '=> core.ref.save_changes'
+      title: '=> core.ref.custom_header_title'
+    email:
+      addresses_heading: ලිපිනය
+      mail_encryption_label: සංකේතාංකනය
+      mail_mailgun_domain_label: වසම
+      mail_password_label: '=> core.ref.password'
+      mail_port_label: කවුළුව
+      mail_username_label: '=> core.ref.username'
+      mailgun_heading: 'මේල්ගන් සැකසුම්'
+      send_test_mail_button: යවන්න
+      title: '=> core.ref.email'
+    extension:
+      enabled: 'සබල කර ඇත'
+      info_links:
+        discuss: 'සාකච්ඡා කරන්න'
+        donate: පරිත්‍යාග
+        support: සහාය
+        website: 'වියමන අඩවිය'
+      open_modal: 'සැකසුම් විවෘත කරන්න'
+      permissions_title: අවසර
+      uninstall_button: අස්ථාපනය
+    header:
+      get_help: 'උදව් ගන්න'
+      log_out_button: '=> core.ref.log_out'
+    loading:
+      title: 'කරුණාකර රැඳෙන්න...'
+    nav:
+      appearance_button: '=> core.admin.appearance.title'
+      appearance_title: '=> core.admin.appearance.description'
+      basics_button: '=> core.admin.basics.title'
+      basics_title: '=> core.admin.basics.description'
+      categories:
+        authentication: සත්‍යාපනය
+        discussion: සාකච්ඡාව
+        feature: විශේෂාංග
+        language: භාෂා
+        theme: තේමා
+      dashboard_button: '=> core.admin.dashboard.title'
+      dashboard_title: '=> core.admin.dashboard.description'
+      email_button: '=> core.ref.email'
+      email_title: '=> core.admin.email.description'
+      permissions_button: '=> core.admin.permissions.title'
+      permissions_title: '=> core.admin.permissions.description'
+      userlist_button: '=> core.admin.users.title'
+      userlist_title: '=> core.admin.users.description'
+    permissions:
+      create_heading: සාදන්න
+      edit_users_groups_label: 'පරිශීලක සමූහ සංස්කරණය'
+      new_group_button: 'නව සමූහය'
+      participate_heading: 'සහභාගී වන්න'
+      post_without_throttle_label: 'රැඳී නොසිට කිහිප වතාවක් පිළිතුරු දෙන්න'
+      read_heading: කියවන්න
+      rename_discussions_label: 'සාකච්ඡාව නැවත නම් කරන්න'
+      reply_to_discussions_label: 'සාකච්ඡාවලට පිළිතුරු  දෙන්න'
+      search_users_label: 'පරිශීලකයින් සොයන්න'
+      start_discussions_label: 'සාකච්ඡා අරඹන්න'
+      title: අවසර
+    permissions_controls:
+      members_button: '=> core.group.members'
+    settings:
+      submit_button: '=> core.ref.save_changes'
+    upload_image:
+      remove_button: '=> core.ref.remove'
   api:
     invalid_username_message: 'පරිශීලක නාමයේ අඩංගු විය හැකි වන්නේ අකුරු, අංක සහ ඉරි පමණි.'
   email:
