@@ -3,10 +3,21 @@
 # You can read more about the process at https://github.com/rob006-software/flarum-translations/wiki.
 
 xelson-chat:
+  admin:
+    permissions:
+      create:
+        channel: 'නාලිකා අරඔන්න'
+    settings:
+      display:
+        minimize: 'ප්‍රථමයෙන් හකුළන්න'
+      floodgate:
+        number: 'පේළියක ඇති පණිවිඩ ගණන'
   forum:
     chat:
       edit_modal:
         form:
+          color:
+            label: වර්ණය
           icon:
             label: '=> core.ref.icon'
             validator: '=> core.ref.icon_text'
@@ -20,7 +31,11 @@ xelson-chat:
       leave: හැරයන්න
       list:
         add_modal:
+          alerts:
+            exists: 'ඔබට මෙම පරිශීලකයා සමඟ තවත් පුද්.ප. සෑදිය නොහැකිය !'
           channel: නාලිකාව
+          create:
+            channel: 'නව නාලිකාවක් සාදන්න'
           form:
             color:
               label: '=> xelson-chat.forum.chat.edit_modal.form.color.label'
@@ -34,6 +49,9 @@ xelson-chat:
           search:
             failed: 'ගැලපෙන පරිශීලකයින් හමු නොවිණී'
             placeholder: 'පරිශීලකයින් සොයන්න'
+          title: 'පරිශීලකයින් තෝරන්න'
+        preview:
+          empty: 'පණිවිඩ නැත'
       message:
         actions:
           hide: සඟවන්න
