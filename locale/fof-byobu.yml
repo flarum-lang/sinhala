@@ -4,8 +4,14 @@
 
 fof-byobu:
   forum:
+    badges:
+      is_private:
+        tooltip: 'පෞද්ගලික සාකච්ඡාව'
     buttons:
+      add_recipients: ලබන්නන්
       edit_recipients: 'ලබන්නන් සංස්කරණය'
+      send_pd: '{username} ට පණිවිඩයක් යවන්න'
+      submit: හරි
     nav:
       nav_item: 'පෞද්ගලික සාකච්ඡා'
       start_button: 'පෞද්ගලිකව සාකච්ඡා කරන්න'

@@ -9,5 +9,8 @@ kyrne-shout:
   forum:
     dropdown:
       tooltip: සංවාද
+    modal:
+      search_recipients: 'පරිශීලක නාමය යොදන්න...'
+      title: 'සංවාදය අරඹන්න'
     setup:
       button_import: 'ආයාත කරන්න'

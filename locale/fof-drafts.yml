@@ -4,8 +4,15 @@
 
 fof-drafts:
   forum:
+    composer:
+      saved: 'සුරකින ලදි!'
+      saving: සුරකිමින්...
+    dropdown:
+      schedule_button: '=> fof-drafts.ref.schedule_draft'
+      tooltip: '=> fof-drafts.forum.dropdown.title'
     schedule_draft_modal:
       schedule_time_preview_invalid: 'වලංගු නොවන දිනයක් හෝ වේලාවකි'
+      title: '=> fof-drafts.ref.schedule_draft'
     user:
       settings:
         draft_autosave_interval_button: 'කාල අන්තරය යොදන්න'
