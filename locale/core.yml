@@ -5,6 +5,7 @@
 core:
   admin:
     appearance:
+      colored_header_label: 'වර්ණික ශීර්ෂය'
       colors_heading: වර්ණ
   api:
     invalid_username_message: 'පරිශීලක නාමයේ අඩංගු විය හැකි වන්නේ අකුරු, අංක සහ ඉරි පමණි.'
