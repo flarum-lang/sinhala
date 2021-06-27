@@ -5,19 +5,21 @@
 kyrne-shout:
   admin:
     permissions:
-      start_label: 'පුද්ගලික සංවාද අරඹන්න'
+      start_label: 'පුද්ගලික සම්භාෂණය අරඹන්න'
   forum:
     chat:
-      cant_start: 'සංවාදය ඇරඹීමට නොහැකියි'
+      cant_start: 'සම්භාෂණය ඇරඹීමට නොහැකියි'
+      chat_with: '{username} සමඟ සංවාදයක් පවත්වන්න'
       messages_multiple: 'මුළු පණිවිඩ {count}'
-      messages_single: 'නව සංවාදය'
+      messages_single: 'නව සම්භාෂණය'
       send: 'පණිවිඩය යවන්න'
-      start: 'සංවාදය අරඹන්න'
+      start: 'සම්භාෂණය අරඹන්න'
     dropdown:
-      tooltip: සංවාද
+      tooltip: සම්භාෂණ
     modal:
+      already: 'ඔබට දැනටමත්  {username} සමඟ සම්භාෂණයක් ඇත.'
       search_recipients: 'පරිශීලක නාමය යොදන්න...'
-      title: 'සංවාදය අරඹන්න'
+      title: 'සම්භාෂණය අරඹන්න'
     setup:
       button_import: 'ආයාත කරන්න'
       confirm_password: 'මුරපදය තහවුරු කරන්න'
