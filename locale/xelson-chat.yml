@@ -68,6 +68,7 @@ xelson-chat:
       disable_notifications: 'දැනුම්දීම් අබල කරන්න'
       disable_sounds: 'ශබ්දය අබල කරන්න'
       enable_notifications: 'දැනුම්දීම් සබල කරන්න'
-      enable_sounds: 'ශබ්දය සබල කරන්න'
+      enable_sounds: 'ශබ්ද සබල කරන්න'
       maximize: විහිදුවන්න
       minimize: හකුළන්න
+      title: සංවාදය
