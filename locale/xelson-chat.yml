@@ -62,6 +62,8 @@ xelson-chat:
           url: 'ඒ.ස.නි. (URL)'
         you: ඔබ
       rejoin: 'නැවත එක්වන්න'
+    index:
+      chat_link: සංවාදය
     toolbar:
       disable_notifications: 'දැනුම්දීම් අබල කරන්න'
       disable_sounds: 'ශබ්දය අබල කරන්න'
