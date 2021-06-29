@@ -54,10 +54,9 @@ sayuri@yalu.lk
 ## ප්‍රයෝජනවත් සබැඳි
 
 * [මුල් පිටුව](https://flarum.org)
-* [ගිටී](https://gitee.com/sayuri-gi/language-pack)
+* [ගිටී](https://gitee.com/flarum-sinhala/language-pack)
 * [ගිට්ලැබ්](https://gitlab.com/flarum-sinhala/language-pack)
 * [කොම්පෝසර්](https://getcomposer.org/)
 * [පැකේජිස්ට්](https://packagist.org/)
 * [වෙබ්ලේට්](https://weblate.org/)
-
 
