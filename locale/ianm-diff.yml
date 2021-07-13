@@ -12,6 +12,10 @@ the-turk-diff:
     editedInfo: '=> core.forum.post.edited_tooltip'
     editedText: '=> core.forum.post.edited_text'
     optionsButton: විකල්ප
+    previewMode:
+      currentContent: '=> the-turk-diff.ref.currentContent'
+      originalContent: '=> the-turk-diff.ref.originalContent'
+      revisionWithNumber: '=> the-turk-diff.ref.revisionWithNumber'
     tooltips:
       originalContent: '=> the-turk-diff.ref.originalContent'
       preview: '=> core.forum.composer.preview_tooltip'

@@ -84,7 +84,11 @@ kilowhat-formulaire:
     submission-index:
       columns:
         actions: ක්‍රියාමාර්ග
+        date: දිනය
         user: පරිශීලක
+      export: 'නිර්යාත කරන්න'
+      load-more: 'තව පූරනය කරන්න'
+      show: පෙන්වන්න
   mail:
     edit: සංස්කරණය
   ref:
