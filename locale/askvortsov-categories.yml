@@ -6,3 +6,8 @@ askvortsov-categories:
   admin:
     basics:
       categories_label: ප්‍රවර්ග
+  forum:
+    all_categories:
+      meta_title_text: '=> askvortsov-categories.ref.categories'
+    index:
+      categories_link: '=> askvortsov-categories.ref.categories'

@@ -4,7 +4,13 @@
 
 v17development-flarum-support:
   forum:
+    composer:
+      enter_message_here: 'ඔබගේ පණිවිඩය මෙහි ඇතුල් කරන්න'
+      write: ලියන්න
     create: සාදන්න
+    modals:
+      article_ratings:
+        username: '=> core.ref.username'
     or: හෝ
     send: යවන්න
     settings: '=> core.ref.settings'

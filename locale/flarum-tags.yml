@@ -14,5 +14,18 @@ flarum-tags:
       icon_text: '=> core.ref.icon_text'
       name_label: '=> flarum-tags.ref.name'
       name_placeholder: '=> flarum-tags.ref.name'
+      submit_button: '=> core.ref.save_changes'
     nav:
       tags_button: '=> flarum-tags.ref.tags'
+    tags:
+      settings_heading: සැකසුම්
+  forum:
+    all_tags:
+      meta_title_text: '=> flarum-tags.ref.tags'
+    choose_tags:
+      submit_button: '=> core.ref.okay'
+    index:
+      more_link: තව...
+      tags_link: '=> flarum-tags.ref.tags'
+  ref:
+    name: නම

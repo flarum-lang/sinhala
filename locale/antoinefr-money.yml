@@ -6,3 +6,6 @@ antoinefr-money:
   admin:
     settings:
       title: සැකසුම්
+  forum:
+    modal:
+      submit_button: '=> core.ref.save_changes'

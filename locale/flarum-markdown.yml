@@ -5,4 +5,5 @@
 flarum-markdown:
   forum:
     composer:
-      code_tooltip: 'කේත ඇතුලත් කරන්න'
+      code_tooltip: 'කේතය ඇතුළු කරන්න'
+      link_tooltip: 'සබැඳියක් එකතු කරන්න'

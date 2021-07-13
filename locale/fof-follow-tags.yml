@@ -3,6 +3,10 @@
 # You can read more about the process at https://github.com/rob006-software/flarum-translations/wiki.
 
 fof-follow-tags:
+  admin:
+    settings:
+      following_none_label: '=> fof-follow-tags.ref.filtering_options.none'
+      following_tags_label: '=> fof-follow-tags.ref.filtering_options.tags'
   forum:
     index:
       following:

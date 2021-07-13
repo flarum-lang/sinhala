@@ -81,6 +81,8 @@ kilowhat-formulaire:
       title: 'ගෝලීය අවසර'
     nav:
       forms: '=> kilowhat-formulaire.ref.manager'
+    permission-controls:
+      everyone_button: '=> core.admin.permissions_controls.everyone_button'
     submission-index:
       columns:
         actions: ක්‍රියාමාර්ග
