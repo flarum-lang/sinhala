@@ -4,6 +4,14 @@
 
 fof-analytics:
   admin:
+    matomo-widget:
+      title: මැටොමෝ
     popup:
+      field:
+        piwikSiteId: 'අඩවියේ හැඳුනුම'
+        piwikUrl: 'මැටොමෝ වසම හෝ ඒ.ස.නි.(URL)'
+        statusGoogle: 'ගූගල් ඇනලිටික්ස් සබල කරන්න'
+        statusPiwik: 'මැටොමෝ සබල කරන්න'
       section:
         googleAnalytics: 'ගූගල් ඇනලිටික්ස්'
+        piwik: මැටොමෝ

@@ -4,7 +4,17 @@
 
 fof-mason:
   admin:
+    buttons:
+      add-answer: 'උත්තරය එකතු කරන්න'
+      edit-answer: 'උත්තරය සංස්කරණය'
+      save-answer: 'උත්තරයේ වෙනස්කම් සුරකින්න'
+    fields:
+      is_suggested: 'පරිශීලකයින්ට උත්තරයක් යෝජනා කරන්න'
+      new-answer: 'නව උත්තරය'
     settings:
       tags-field-name-placeholder: '=> fof-mason.forum.tags.tags-label'
     titles:
       settings: සැකසුම්
+  forum:
+    post-answers:
+      no-answer: 'උත්තරයක් නැත'

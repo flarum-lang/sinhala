@@ -6,3 +6,6 @@ fof-polls:
   forum:
     composer_discussion:
       edit_poll: '=> fof-polls.forum.moderation.edit'
+    modal:
+      option_placeholder: උත්තරය
+      options_label: උත්තර
