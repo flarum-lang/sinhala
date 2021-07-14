@@ -79,10 +79,17 @@ kilowhat-formulaire:
         seeOwnDiscussion: '=> kilowhat-formulaire.ref.permissions.seeOwnDiscussion'
         seeOwnUser: '=> kilowhat-formulaire.ref.permissions.seeOwnUser'
       title: 'ගෝලීය අවසර'
+    items-editor:
+      add: 'පේළියක් එකතු කරන්න'
+      remove: 'පේළිය ඉවත් කරන්න'
     nav:
       forms: '=> kilowhat-formulaire.ref.manager'
     permission-controls:
       everyone_button: '=> core.admin.permissions_controls.everyone_button'
+    save-controls:
+      redo: පසුසේ
+      save: සුරකින්න
+      undo: පෙරසේ
     submission-index:
       columns:
         actions: ක්‍රියාමාර්ග
@@ -91,6 +98,20 @@ kilowhat-formulaire:
       export: 'නිර්යාත කරන්න'
       load-more: 'තව පූරනය කරන්න'
       show: පෙන්වන්න
+    submission:
+      restore: 'ප්‍රත්‍යර්පණය කරන්න'
+    template-editor:
+      description: සවිස්තරය
+      email: වි-තැපෑල
+      required: අවශ්‍යයයි
+      type:
+        content: අන්තර්ගතය
+        date: දිනය
+        number: අංකය
+        upload: 'උඩුගත කරන්න'
+    upload-editor:
+      remove: 'ගොනුව ඉවත් කරන්න'
+      uploading: 'උඩුගත වෙමින්...'
   mail:
     edit: සංස්කරණය
   ref:

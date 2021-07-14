@@ -6,8 +6,19 @@ askvortsov-categories:
   admin:
     basics:
       categories_label: ප්‍රවර්ග
+    headings:
+      layout: පිරිසැලසුම
+      nav: යාත්‍රණය
+    title: 'ප්‍රවර්ග සැකසුම්'
   forum:
     all_categories:
+      meta_description_text: 'සියලුම ප්‍රවර්ග'
       meta_title_text: '=> askvortsov-categories.ref.categories'
     index:
       categories_link: '=> askvortsov-categories.ref.categories'
+    last_discussion_widget:
+      no_discussions: 'සාකච්ඡා නැත (තවමත්!)'
+    stat-widgets:
+      discussion_label: සාකච්ඡා
+  ref:
+    categories: ප්‍රවර්ග

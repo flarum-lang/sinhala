@@ -23,7 +23,7 @@ kilowhat-audit:
       empty: 'ප්‍රතිඵල නැත'
       filterApply: යොදන්න
       genericResource:
-        comment: සටහන
+        comment: අදහස
       loadMore: 'තව පූරනය කරන්න'
       noReason: '(හේතුවක් නැත)'
       noValue: '(අගයක් නැත)'
