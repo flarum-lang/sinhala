@@ -11,6 +11,7 @@ xelson-chat:
       edit: 'සංවාද පණිවිඩ සංස්කරණය'
       enabled: 'සංවාදය සබල කරන්න'
     settings:
+      charlimit: 'පණිවිඩයේ උපරිම අකුරු'
       display:
         minimize: 'ප්‍රථමයෙන් හකුළන්න'
       floodgate:
@@ -74,7 +75,7 @@ xelson-chat:
         censored: 'මෙම පණිවිඩය බැලීමට පිවිසෙන්න!'
         events:
           self:
-            entered: '{username} සංවාදයට ඇතුළු විය'
+            entered: '{username} සංවාදයට ඇතුල් විය'
             leaved: '{username} සංවාදය හැරගියා'
         type:
           code: '<Code />'
@@ -84,6 +85,10 @@ xelson-chat:
       welcome:
         header: 'නියෝන් සංවාදය වෙත සාදරයෙන් පිළිගනිමු!'
         subheader: 'කරුණාකර සම්භාෂණය සඳහා වම්පසින් සංවාදයක් තෝරන්න'
+    errors:
+      chatdenied: 'ඔබගේ පරිශීලක සමූහයට පණිවිඩ ලිවීමට ඉඩ දී නැත'
+      removed: 'ඔබව සංවාදයෙන් ඉවත් කර ඇත'
+      unauthenticated: 'සංවාදය භාවිතා කළ හැකි වන්නේ ලියාපදිංචි වූ පරිශීලකයින්ට පමණි'
     index:
       chat_link: සංවාදය
     toolbar:

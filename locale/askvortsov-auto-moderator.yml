@@ -19,7 +19,9 @@ askvortsov-auto-moderator:
     group_selector:
       placeholder: 'සමූහයක් තෝරන්න'
     metric_drivers:
-      best_answers: 'හොඳම පිළිතුරු'
+      best_answers: 'හොඳම උත්තර'
       discussions_started: 'සාකච්ඡා ආරම්භ විය'
+    requirement_drivers:
+      suspended: 'අත්හිටුවා ඇත'
   lib:
     group_id: 'සමූහයේ හැඳුනුම'
