@@ -46,8 +46,8 @@ https://weblate.rob006.net/projects/flarum/
 sayuri@yalu.lk
 
 **භාෂා ආශ්‍රිත ගැටලු සඳහා** <br />
-[දිලිනි@යාලු.ලංකා]() <br />
-dilini@yalu.lk
+දිලිනි චතුරිකා | @dilinic - wire.com <br />
+[දිලිනි@යාලු.ලංකා]() | dilini@yalu.lk <br />
 
 ## ස්තූතිය
 
