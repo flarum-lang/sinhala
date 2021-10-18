@@ -40,6 +40,7 @@ core:
       title: '=> core.ref.custom_footer_title'
     edit_group:
       color_label: '=> core.ref.color'
+      hide_label: 'සංසදයෙහි සඟවන්න'
       icon_label: '=> core.ref.icon'
       icon_text: '=> core.ref.icon_text'
       name_label: නම
@@ -71,6 +72,7 @@ core:
       enabled: 'සබල කර ඇත'
       info_links:
         discuss: 'සාකච්ඡා කරන්න'
+        documentation: ප්‍රලේඛනය
         donate: පරිත්‍යාග
         support: සහාය
         website: 'වියමන අඩවිය'
@@ -106,6 +108,7 @@ core:
       create_heading: සාදන්න
       description: 'දැකිය හැකිවන්නේ කාටද සහ කළ හැකි දේ වින්‍යාසගත කරන්න.'
       edit_users_groups_label: 'පරිශීලක සමූහ සංස්කරණය'
+      global_heading: ගෝලීය
       new_group_button: 'නව සමූහය'
       participate_heading: 'සහභාගී වන්න'
       post_without_throttle_label: 'රැඳී නොසිට කිහිප වතාවක් පිළිතුරු දෙන්න'
