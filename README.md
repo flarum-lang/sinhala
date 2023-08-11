@@ -40,6 +40,55 @@ https://weblate.rob006.net/projects/flarum/
 
 > `php flarum cache:clear`
 
+
+## Translation status for Flarum core
+
+| Component | Status |
+| --- | --- |
+| [Core](https://github.com/flarum/flarum-core) | [![Translation status](https://weblate.rob006.net/widgets/flarum/si/core/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/core/si/) |
+| Validation | [![Translation status](https://weblate.rob006.net/widgets/flarum/si/validation/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/validation/si/) |
+
+
+## Translation status for official extensions
+
+<!-- flarum-extensions-list-start -->
+
+| Extension | Status |
+| --- | --- |
+
+<!-- flarum-extensions-list-stop -->
+
+
+## Translation status for Friends of Flarum extensions
+
+<!-- fof-extensions-list-start -->
+
+| Extension | Status |
+| --- | --- |
+
+<!-- fof-extensions-list-stop -->
+
+
+## Translation status for community extensions
+
+<!-- various-extensions-list-start -->
+
+| Extension | Status |
+| --- | --- |
+
+<!-- various-extensions-list-stop -->
+
+
+## Translation status for premium extensions
+
+<!-- premium-extensions-list-start -->
+
+| Extension | Status |
+| --- | --- |
+
+<!-- premium-extensions-list-stop -->
+
+
 ## සම්බන්ධ වන්න 
 
 [ලහිරු@යාළු.ලංකා]() <br />
