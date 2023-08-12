@@ -41,19 +41,19 @@ https://weblate.rob006.net/projects/flarum/
 > `php flarum cache:clear`
 
 
-## Translation status for Flarum core
+## "Flarum core" පරිවර්තන තත්‍වය
 
-| Component | Status |
+| සංරචකය | තත්‍වය |
 | --- | --- |
 | [Core](https://github.com/flarum/flarum-core) | [![Translation status](https://weblate.rob006.net/widgets/flarum/si/core/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/core/si/) |
 | Validation | [![Translation status](https://weblate.rob006.net/widgets/flarum/si/validation/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/validation/si/) |
 
 
-## Translation status for official extensions
+## නිල දිගුවල පරිවර්තන තත්‍වය
 
 <!-- flarum-extensions-list-start -->
 
-| Extension | Status |
+| දිගුව | තත්‍වය |
 | --- | --- |
 | [`flarum/approval`](https://github.com/flarum/approval) | [![Translation status](https://weblate.rob006.net/widgets/flarum/si/flarum-approval/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-approval/si/) |
 | [`flarum/flags`](https://github.com/flarum/flags) | [![Translation status](https://weblate.rob006.net/widgets/flarum/si/flarum-flags/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-flags/si/) |
@@ -71,11 +71,11 @@ https://weblate.rob006.net/projects/flarum/
 <!-- flarum-extensions-list-stop -->
 
 
-## Translation status for Friends of Flarum extensions
+## "Friends of Flarum" දිගුවල පරිවර්තන තත්‍වය
 
 <!-- fof-extensions-list-start -->
 
-| Extension | Status |
+| දිගුව | තත්‍වය |
 | --- | --- |
 | [`fof/analytics`](https://github.com/FriendsOfFlarum/analytics) | [![Translation status](https://weblate.rob006.net/widgets/flarum/si/fof-analytics/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-analytics/si/) |
 | [`fof/ban-ips`](https://github.com/FriendsOfFlarum/ban-ips) | [![Translation status](https://weblate.rob006.net/widgets/flarum/si/fof-ban-ips/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-ban-ips/si/) |
@@ -102,11 +102,11 @@ https://weblate.rob006.net/projects/flarum/
 <!-- fof-extensions-list-stop -->
 
 
-## Translation status for community extensions
+## ප්‍රජා දිගුවල පරිවර්තන තත්‍වය
 
 <!-- various-extensions-list-start -->
 
-| Extension | Status |
+| දිගුව | තත්‍වය |
 | --- | --- |
 | [`acpl/mobile-tab`](https://github.com/android-com-pl/mobile-tab) | [![Translation status](https://weblate.rob006.net/widgets/flarum/si/acpl-mobile-tab/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/acpl-mobile-tab/si/) |
 | [`acpl/my-tags`](https://github.com/android-com-pl/my-tags) | [![Translation status](https://weblate.rob006.net/widgets/flarum/si/acpl-my-tags/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/acpl-my-tags/si/) |
@@ -160,11 +160,11 @@ https://weblate.rob006.net/projects/flarum/
 <!-- various-extensions-list-stop -->
 
 
-## Translation status for premium extensions
+## ආධික්‍යය දිගුවල පරිවර්තන තත්‍වය
 
 <!-- premium-extensions-list-start -->
 
-| Extension | Status |
+| දිගුව | තත්‍වය |
 | --- | --- |
 | [`blomstra/payments`](https://extiverse.com/extension/blomstra/payments) | [![Translation status](https://weblate.rob006.net/widgets/flarum/si/blomstra-payments/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/blomstra-payments/si/) |
 | [`blomstra/readme`](https://extiverse.com/extension/blomstra/readme) | [![Translation status](https://weblate.rob006.net/widgets/flarum/si/blomstra-readme/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/blomstra-readme/si/) |
