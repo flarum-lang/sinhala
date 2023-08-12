@@ -53,7 +53,7 @@ https://weblate.rob006.net/projects/flarum/
 
 <!-- flarum-extensions-list-start -->
 
-| දිගුව | තත්‍වය |
+| Extension | Status |
 | --- | --- |
 | [`flarum/approval`](https://github.com/flarum/approval) | [![Translation status](https://weblate.rob006.net/widgets/flarum/si/flarum-approval/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-approval/si/) |
 | [`flarum/flags`](https://github.com/flarum/flags) | [![Translation status](https://weblate.rob006.net/widgets/flarum/si/flarum-flags/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-flags/si/) |
@@ -75,7 +75,7 @@ https://weblate.rob006.net/projects/flarum/
 
 <!-- fof-extensions-list-start -->
 
-| දිගුව | තත්‍වය |
+| Extension | Status |
 | --- | --- |
 | [`fof/analytics`](https://github.com/FriendsOfFlarum/analytics) | [![Translation status](https://weblate.rob006.net/widgets/flarum/si/fof-analytics/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-analytics/si/) |
 | [`fof/ban-ips`](https://github.com/FriendsOfFlarum/ban-ips) | [![Translation status](https://weblate.rob006.net/widgets/flarum/si/fof-ban-ips/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-ban-ips/si/) |
@@ -106,7 +106,7 @@ https://weblate.rob006.net/projects/flarum/
 
 <!-- various-extensions-list-start -->
 
-| දිගුව | තත්‍වය |
+| Extension | Status |
 | --- | --- |
 | [`acpl/mobile-tab`](https://github.com/android-com-pl/mobile-tab) | [![Translation status](https://weblate.rob006.net/widgets/flarum/si/acpl-mobile-tab/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/acpl-mobile-tab/si/) |
 | [`acpl/my-tags`](https://github.com/android-com-pl/my-tags) | [![Translation status](https://weblate.rob006.net/widgets/flarum/si/acpl-my-tags/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/acpl-my-tags/si/) |
@@ -164,7 +164,7 @@ https://weblate.rob006.net/projects/flarum/
 
 <!-- premium-extensions-list-start -->
 
-| දිගුව | තත්‍වය |
+| Extension | Status |
 | --- | --- |
 | [`blomstra/payments`](https://extiverse.com/extension/blomstra/payments) | [![Translation status](https://weblate.rob006.net/widgets/flarum/si/blomstra-payments/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/blomstra-payments/si/) |
 | [`blomstra/readme`](https://extiverse.com/extension/blomstra/readme) | [![Translation status](https://weblate.rob006.net/widgets/flarum/si/blomstra-readme/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/blomstra-readme/si/) |
