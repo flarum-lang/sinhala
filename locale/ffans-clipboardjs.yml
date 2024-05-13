@@ -10,7 +10,7 @@ ffans-clipboardjs:
         github: ගිට්හබ්
         jianshu: 'ජියාන් ෂූ'
   forum:
-    action_copy: පිටපත්
+    action_copy: පිටපතක්
     action_cut: කපන්න
     error_btn: දෝෂය
     no_support: 'සහාය නැත'
