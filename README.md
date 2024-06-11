@@ -166,12 +166,12 @@ https://weblate.rob006.net/projects/flarum/
 
 | දිගුව | තත්‍වය |
 | --- | --- |
-| [`blomstra/payments`](https://extiverse.com/extension/blomstra/payments) | [![පරිවර්තන තත්‍වය](https://weblate.rob006.net/widgets/flarum/si/blomstra-payments/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/blomstra-payments/si/) |
-| [`blomstra/readme`](https://extiverse.com/extension/blomstra/readme) | [![පරිවර්තන තත්‍වය](https://weblate.rob006.net/widgets/flarum/si/blomstra-readme/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/blomstra-readme/si/) |
-| [`datitisev/flarum-backup`](https://extiverse.com/extension/datitisev/flarum-backup) | [![පරිවර්තන තත්‍වය](https://weblate.rob006.net/widgets/flarum/si/datitisev-backup/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/datitisev-backup/si/) |
-| [`kilowhat/flarum-ext-audit-pro`](https://extiverse.com/extension/kilowhat/flarum-ext-audit-pro) | [![පරිවර්තන තත්‍වය](https://weblate.rob006.net/widgets/flarum/si/kilowhat-audit-pro/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/kilowhat-audit-pro/si/) |
-| [`kilowhat/flarum-ext-formulaire`](https://extiverse.com/extension/kilowhat/flarum-ext-formulaire) | [![පරිවර්තන තත්‍වය](https://weblate.rob006.net/widgets/flarum/si/kilowhat-formulaire/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/kilowhat-formulaire/si/) |
-| [`v17development/flarum-support`](https://extiverse.com/extension/v17development/flarum-support) | [![පරිවර්තන තත්‍වය](https://weblate.rob006.net/widgets/flarum/si/v17development-support/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/v17development-support/si/) |
+| [`blomstra/payments`](https://flarum.org/extension/blomstra/payments) | [![පරිවර්තන තත්‍වය](https://weblate.rob006.net/widgets/flarum/si/blomstra-payments/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/blomstra-payments/si/) |
+| [`blomstra/readme`](https://flarum.org/extension/blomstra/readme) | [![පරිවර්තන තත්‍වය](https://weblate.rob006.net/widgets/flarum/si/blomstra-readme/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/blomstra-readme/si/) |
+| [`datitisev/flarum-backup`](https://flarum.org/extension/datitisev/flarum-backup) | [![පරිවර්තන තත්‍වය](https://weblate.rob006.net/widgets/flarum/si/datitisev-backup/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/datitisev-backup/si/) |
+| [`kilowhat/flarum-ext-audit-pro`](https://flarum.org/extension/kilowhat/flarum-ext-audit-pro) | [![පරිවර්තන තත්‍වය](https://weblate.rob006.net/widgets/flarum/si/kilowhat-audit-pro/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/kilowhat-audit-pro/si/) |
+| [`kilowhat/flarum-ext-formulaire`](https://flarum.org/extension/kilowhat/flarum-ext-formulaire) | [![පරිවර්තන තත්‍වය](https://weblate.rob006.net/widgets/flarum/si/kilowhat-formulaire/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/kilowhat-formulaire/si/) |
+| [`v17development/flarum-support`](https://flarum.org/extension/v17development/flarum-support) | [![පරිවර්තන තත්‍වය](https://weblate.rob006.net/widgets/flarum/si/v17development-support/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/v17development-support/si/) |
 
 <!-- premium-extensions-list-stop -->
 
