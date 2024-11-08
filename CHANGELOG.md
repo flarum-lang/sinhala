@@ -2,6 +2,17 @@ CHANGELOG
 =========
 
 
+0.6.2 (2024-11-08)
+------------------
+
+**නව දිගු සඳහා සහාය එක් කෙරිණි**:
+
+* [`gtdxyz/flarum-ext-badges`](https://github.com/daocatt/flarum-ext-badges)
+
+
+සියළුම වෙනස්කම්: [0.6.1...0.6.2](https://github.com/flarum-lang/sinhala/compare/0.6.1...0.6.2).
+
+
 0.6.1 (2024-05-13)
 ------------------
 
