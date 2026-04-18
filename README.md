@@ -21,7 +21,7 @@ https://weblate.rob006.net/projects/flarum2/
 
 මේ සඳහා [කොම්පෝසර්](https://getcomposer.org/) භාවිතා කළ හැකිය.
 
-> `composer require flarum-lang/sinhala`
+> `composer require "flarum-lang/sinhala:*"`
 
 ස්ථාපනය කිරීමෙන් පසුව පාලන තීරය හරහා එය සක්‍රිය කරන්න.
 
@@ -34,7 +34,7 @@ https://weblate.rob006.net/projects/flarum2/
 නවතම අනුවාදය සඳහා යාවත්කාල වීමට බලාත්ම කිරීම<br />
 (නව ෆ්ලාරම් අනුවාදයක් වෙත යාමේදී නිර්දේශ කෙරේ)
 
-> `composer require flarum-lang/sinhala`
+> `composer require "flarum-lang/sinhala:*"`
 
 යාවත්කාල කිරීමෙන් පසුව නිහිතය හිස් කළ හැකිය.
 
