@@ -4,7 +4,7 @@
 
 ### අවම අවශ්‍යතා
 
-* <a href="https://flarum.org">ෆ්ලාරම්</a> 1.3
+* <a href="https://flarum.org">ෆ්ලාරම්</a> 2.0.0
 
 
 ## දායක වන්න
