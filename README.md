@@ -104,6 +104,7 @@ https://weblate.rob006.net/projects/flarum2/
 | --- | --- |
 | [`acpl/my-tags`](https://github.com/android-com-pl/my-tags) | [![පරිවර්තන තත්‍වය](https://weblate.rob006.net/widgets/flarum2/si/acpl-my-tags/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/acpl-my-tags/si/) |
 | [`ianm/follow-users`](https://github.com/imorland/follow-users) | [![පරිවර්තන තත්‍වය](https://weblate.rob006.net/widgets/flarum2/si/ianm-follow-users/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/ianm-follow-users/si/) |
+| [`ianm/syndication`](https://github.com/imorland/syndication) | [![පරිවර්තන තත්‍වය](https://weblate.rob006.net/widgets/flarum2/si/ianm-syndication/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/ianm-syndication/si/) |
 | [`justoverclock/flarum-ext-welcomebox`](https://github.com/justoverclockl/flarum-ext-welcomebox) | [![පරිවර්තන තත්‍වය](https://weblate.rob006.net/widgets/flarum2/si/justoverclock-welcomebox/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/justoverclock-welcomebox/si/) |
 | [`migratetoflarum/fake-data`](https://github.com/migratetoflarum/fake-data) | [![පරිවර්තන තත්‍වය](https://weblate.rob006.net/widgets/flarum2/si/migratetoflarum-fake-data/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/migratetoflarum-fake-data/si/) |
 | [`sycho/flarum-github-milestone`](https://github.com/SychO9/flarum-github-milestone) | [![පරිවර්තන තත්‍වය](https://weblate.rob006.net/widgets/flarum2/si/sycho-github-milestone/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/sycho-github-milestone/si/) |
