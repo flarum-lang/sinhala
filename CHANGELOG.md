@@ -2,6 +2,17 @@ CHANGELOG
 =========
 
 
+2.0.1 (2026-04-24)
+------------------
+
+**නව දිගු සඳහා සහාය එක් කෙරිණි**:
+
+* [`ianm/syndication`](https://github.com/imorland/syndication)
+
+
+සියළුම වෙනස්කම්: [2.0.0...2.0.1](https://github.com/flarum-lang/sinhala/compare/2.0.0...2.0.1).
+
+
 2.0.0 (2026-04-18)
 ------------------
 
