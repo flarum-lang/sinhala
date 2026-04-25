@@ -132,9 +132,6 @@ https://weblate.rob006.net/projects/flarum/
 | [`justoverclock/flarum-ext-contactme`](https://github.com/justoverclockl/flarum-ext-contactme) | [![පරිවර්තන තත්‍වය](https://weblate.rob006.net/widgets/flarum/si/justoverclock-contactme/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/justoverclock-contactme/si/) |
 | [`justoverclock/flarum-ext-welcomebox`](https://github.com/justoverclockl/flarum-ext-welcomebox) | [![පරිවර්තන තත්‍වය](https://weblate.rob006.net/widgets/flarum/si/justoverclock-welcomebox/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/justoverclock-welcomebox/si/) |
 | [`kilowhat/flarum-ext-audit-free`](https://github.com/kilowhat/flarum-ext-audit-free) | [![පරිවර්තන තත්‍වය](https://weblate.rob006.net/widgets/flarum/si/kilowhat-audit-free/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/kilowhat-audit-free/si/) |
-| [`kyrne/evergreen`](https://github.com/KyrneDev/Evergreen) | [![පරිවර්තන තත්‍වය](https://weblate.rob006.net/widgets/flarum/si/kyrne-evergreen/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/kyrne-evergreen/si/) |
-| [`kyrne/whisper`](https://github.com/KyrneDev/whisper) | [![පරිවර්තන තත්‍වය](https://weblate.rob006.net/widgets/flarum/si/kyrne-whisper/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/kyrne-whisper/si/) |
-| [`malago/flarum-achievements`](https://github.com/malago86/flarum-achievements) | [![පරිවර්තන තත්‍වය](https://weblate.rob006.net/widgets/flarum/si/malago-achievements/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/malago-achievements/si/) |
 | [`malago/flarum-ads`](https://github.com/malago86/flarum-ads) | [![පරිවර්තන තත්‍වය](https://weblate.rob006.net/widgets/flarum/si/malago-ads/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/malago-ads/si/) |
 | [`migratetoflarum/fake-data`](https://github.com/migratetoflarum/fake-data) | [![පරිවර්තන තත්‍වය](https://weblate.rob006.net/widgets/flarum/si/migratetoflarum-fake-data/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/migratetoflarum-fake-data/si/) |
 | [`miniflar/sidenav-download-button`](https://github.com/miniflar/sidenav-download-button) | [![පරිවර්තන තත්‍වය](https://weblate.rob006.net/widgets/flarum/si/miniflar-sidenav-download-button/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/miniflar-sidenav-download-button/si/) |
@@ -143,7 +140,6 @@ https://weblate.rob006.net/projects/flarum/
 | [`sycho/flarum-github-milestone`](https://github.com/SychO9/flarum-github-milestone) | [![පරිවර්තන තත්‍වය](https://weblate.rob006.net/widgets/flarum/si/sycho-github-milestone/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/sycho-github-milestone/si/) |
 | [`tituspijean/flarum-ext-auth-ldap`](https://github.com/tituspijean/flarum-ext-auth-ldap) | [![පරිවර්තන තත්‍වය](https://weblate.rob006.net/widgets/flarum/si/tituspijean-auth-ldap/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/tituspijean-auth-ldap/si/) |
 | [`webbinaro/flarum-calendar`](https://github.com/eddiewebb/flarum-calendar) | [![පරිවර්තන තත්‍වය](https://weblate.rob006.net/widgets/flarum/si/webbinaro-calendar/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/webbinaro-calendar/si/) |
-| [`xelson/flarum-ext-chat`](https://github.com/Xelson/flarum-ext-chat) | [![පරිවර්තන තත්‍වය](https://weblate.rob006.net/widgets/flarum/si/xelson-chat/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/xelson-chat/si/) |
 
 <!-- various-extensions-list-stop -->
 
