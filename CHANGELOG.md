@@ -2,6 +2,17 @@ CHANGELOG
 =========
 
 
+2.0.2 (XXXX-XX-XX)
+------------------
+
+**නව දිගු සඳහා සහාය එක් කෙරිණි**:
+
+* [`antoinefr/flarum-ext-money`](https://github.com/AntoineFr/flarum-ext-money)
+
+
+සියළුම වෙනස්කම්: [2.0.1...2.0.2](https://github.com/flarum-lang/sinhala/compare/2.0.1...2.0.2).
+
+
 2.0.1 (2026-04-24)
 ------------------
 
