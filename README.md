@@ -77,6 +77,7 @@ https://weblate.rob006.net/projects/flarum2/
 | දිගුව | තත්‍වය |
 | --- | --- |
 | [`fof/analytics`](https://github.com/FriendsOfFlarum/analytics) | [![පරිවර්තන තත්‍වය](https://weblate.rob006.net/widgets/flarum2/si/fof-analytics/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-analytics/si/) |
+| [`fof/ban-ips`](https://github.com/FriendsOfFlarum/ban-ips) | [![පරිවර්තන තත්‍වය](https://weblate.rob006.net/widgets/flarum2/si/fof-ban-ips/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-ban-ips/si/) |
 | [`fof/best-answer`](https://github.com/FriendsOfFlarum/best-answer) | [![පරිවර්තන තත්‍වය](https://weblate.rob006.net/widgets/flarum2/si/fof-best-answer/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-best-answer/si/) |
 | [`fof/byobu`](https://github.com/FriendsOfFlarum/byobu) | [![පරිවර්තන තත්‍වය](https://weblate.rob006.net/widgets/flarum2/si/fof-byobu/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-byobu/si/) |
 | [`fof/drafts`](https://github.com/FriendsOfFlarum/drafts) | [![පරිවර්තන තත්‍වය](https://weblate.rob006.net/widgets/flarum2/si/fof-drafts/svg-badge.svg)](https://weblate.rob006.net/projects/flarum2/fof-drafts/si/) |
