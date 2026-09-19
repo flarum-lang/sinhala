@@ -14,6 +14,6 @@ clarkwinkelmann-group-invitation:
         group: තෝරන්න...
       unlimited: අසීමිත
   forum:
-    title: '{Group} සමූහය ට එක් වීමට ඔබට ආරාධනා කර ඇත!'
+    title: '{group} සමූහය ට එක් වීමට ඔබට ආරාධනා කර ඇත!'
     user:
       not-connected: 'ආරාධනාව පිළිගැනීමට <a>පිවිසෙන්න</a>'
