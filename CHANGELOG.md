@@ -2,6 +2,17 @@ CHANGELOG
 =========
 
 
+1.0.0 (XXXX-XX-XX)
+------------------
+
+**දිගු සඳහා පරිවර්තන යාවත්කාල කෙරිණි**:
+
+* [`clarkwinkelmann/flarum-ext-group-invitation`](https://github.com/clarkwinkelmann/flarum-ext-group-invitation)
+
+
+සියළුම වෙනස්කම්: [0.6.2...1.0.0](https://github.com/flarum-lang/sinhala/compare/0.6.2...1.0.0).
+
+
 0.6.2 (2024-11-08)
 ------------------
 
