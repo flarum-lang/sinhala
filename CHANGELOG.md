@@ -2,6 +2,17 @@ CHANGELOG
 =========
 
 
+1.0.0 (XXXX-XX-XX)
+------------------
+
+**Updated translations for extensions**:
+
+* [`clarkwinkelmann/flarum-ext-group-invitation`](https://github.com/clarkwinkelmann/flarum-ext-group-invitation) (1 changed)
+
+
+All changes: [0.6.2...1.0.0](https://github.com/flarum-lang/sinhala/compare/0.6.2...1.0.0).
+
+
 0.6.2 (2024-11-08)
 ------------------
 
