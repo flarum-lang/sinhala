@@ -5,12 +5,12 @@ CHANGELOG
 1.0.0 (XXXX-XX-XX)
 ------------------
 
-**දිගු සඳහා පරිවර්තන යාවත්කාල කෙරිණි**:
+**Updated translations for extensions**:
 
-* [`clarkwinkelmann/flarum-ext-group-invitation`](https://github.com/clarkwinkelmann/flarum-ext-group-invitation)
+* [`clarkwinkelmann/flarum-ext-group-invitation`](https://github.com/clarkwinkelmann/flarum-ext-group-invitation) (1 changed)
 
 
-සියළුම වෙනස්කම්: [0.6.2...1.0.0](https://github.com/flarum-lang/sinhala/compare/0.6.2...1.0.0).
+All changes: [0.6.2...1.0.0](https://github.com/flarum-lang/sinhala/compare/0.6.2...1.0.0).
 
 
 0.6.2 (2024-11-08)
