@@ -7,7 +7,7 @@ CHANGELOG
 
 **Updated translations for extensions**:
 
-* [`clarkwinkelmann/flarum-ext-group-invitation`](https://github.com/clarkwinkelmann/flarum-ext-group-invitation) (1 changed)
+* [`clarkwinkelmann/flarum-ext-group-invitation`](https://github.com/clarkwinkelmann/flarum-ext-group-invitation) (1 changed, 34% complete)
 
 
 All changes: [0.6.2...1.0.0](https://github.com/flarum-lang/sinhala/compare/0.6.2...1.0.0).
