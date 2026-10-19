@@ -2,6 +2,18 @@ CHANGELOG
 =========
 
 
+2.0.3 (XXXX-XX-XX)
+------------------
+
+**Added support for new extensions**:
+
+* [`fof/discussion-language`](https://github.com/FriendsOfFlarum/discussion-language) (18% complete)
+* [`fof/mason`](https://github.com/FriendsOfFlarum/mason) (6% complete)
+
+
+All changes: [2.0.2...2.0.3](https://github.com/flarum-lang/sinhala/compare/2.0.2...2.0.3).
+
+
 2.0.2 (2026-06-16)
 ------------------
 
