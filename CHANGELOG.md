@@ -2,6 +2,22 @@ CHANGELOG
 =========
 
 
+2.0.4 (XXXX-XX-XX)
+------------------
+
+**General changes**:
+
+* Updated Flarum core translations (5 changed).
+
+
+**Updated translations for extensions**:
+
+* [`fof/discussion-language`](https://github.com/FriendsOfFlarum/discussion-language) (1 changed, 18% complete)
+
+
+All changes: [2.0.3...2.0.4](https://github.com/flarum-lang/sinhala/compare/2.0.3...2.0.4).
+
+
 2.0.3 (2026-10-26)
 ------------------
 
