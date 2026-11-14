@@ -139,7 +139,7 @@ lahiru@yalu.lk
 ## ස්තූතිය
 
 ෆ්ලාරම් පරිවර්තන සාමූහික ප්‍රජා සහභාගීත්වයෙන් නඩත්තු කෙරේ.<br />
-`Day.js` සඳහා පරිවර්තනය [මූලාශ්‍රයෙන්](https://github.com/iamkun/dayjs/blob/v1.9.3/src/locale/si.js) සෘජුව පිටපත් වේ.<br />
+`Day.js` සඳහා පරිවර්තනය [මූලාශ්‍රයෙන්](https://github.com/iamkun/dayjs/blob/v1.11.23/src/locale/si.js) සෘජුව පිටපත් වේ.<br />
 `Validation.yml` සඳහා පරිවර්තනය [ලරාවල්](https://github.com/Laravel-Lang/lang/blob/master/locales/si/validation.php) සඳහා වන භාෂා ඇසුරුම මත පදනම් වේ.
 
 ## ප්‍රයෝජනවත් සබැඳි
