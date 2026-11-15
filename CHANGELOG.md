@@ -2,6 +2,17 @@ CHANGELOG
 =========
 
 
+2.0.5 (XXXX-XX-XX)
+------------------
+
+**General changes**:
+
+* Updated Day.js translations.
+
+
+All changes: [2.0.4...2.0.5](https://github.com/flarum-lang/sinhala/compare/2.0.4...2.0.5).
+
+
 2.0.4 (2026-11-03)
 ------------------
 
