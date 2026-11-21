@@ -6,7 +6,7 @@ fof-discussion-language:
   admin:
     settings:
       native_label: 'ස්වදේශීය භාෂාවේ නම් භාවිතා කරන්න'
-      show_any_lang_opt_label: '"ඕනෑම භාෂාවක්" තේරීමේ විකල්පය පෙන්වන්න.'
+      show_any_lang_opt_label: '"ඕනෑම භාෂාවක්" තේරීමේ විකල්පය පෙන්වන්න'
   api:
     discussion:
       validation_error: 'ඔබ ඔබගේ සාකච්ඡාවේ භාෂාව තෝරා ගත යුතුය.'
