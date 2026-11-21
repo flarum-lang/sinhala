@@ -7,7 +7,13 @@ CHANGELOG
 
 **General changes**:
 
+* Updated Flarum core translations (3 changed).
 * Updated Day.js translations.
+
+
+**Updated translations for extensions**:
+
+* [`fof/discussion-language`](https://github.com/FriendsOfFlarum/discussion-language) (1 changed, 31% complete)
 
 
 All changes: [1.0.0...1.0.1](https://github.com/flarum-lang/sinhala/compare/1.0.0...1.0.1).
