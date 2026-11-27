@@ -1,34 +1,28 @@
 {
 	"name": "flarum-lang/sinhala",
+	"description": "Sinhala Language Pack for Flarum",
 	"type": "flarum-extension",
-	"description": "Sinhala language pack for Flarum.",
 	"keywords": [
-		"locale",
-		"flarum",
-		"flarum-sinhala"
+		"flarum-locale"
 	],
+	"homepage": "https://github.com/flarum-lang/sinhala",
 	"license": "MIT",
 	"authors": [
 		{
-			"name": "Sayuri",
-			"email": "sayuri@yalu.lk",
-			"homepage": "https://discuss.flarum.org/d/27076-sinhala-language-pack"
+			"name": "sayuri-gi",
+			"homepage": "https://github.com/sayuri-gi",
+			"role": "Maintainer"
 		}
 	],
 	"support": {
-		"issues": "https://github.com/flarum-lang/sinhala/issues/new",
-		"source": "https://github.com/flarum-lang/sinhala",
-		"forum": "https://discuss.flarum.org/d/27076"
+		"issues": "https://github.com/flarum-lang/sinhala/issues",
+		"forum": "https://discuss.flarum.org/d/27076",
+		"source": "https://github.com/flarum-lang/sinhala"
 	},
 	"require": {
 		"flarum/core": "^2.0"
 	},
-	"minimum-stability": "dev",
-	"prefer-stable": true,
 	"extra": {
-		"branch-alias": {
-			"dev-main": "1.x-dev"
-		},
 		"flarum-extension": {
 			"title": "Sinhala",
 			"category": "language",
@@ -41,9 +35,6 @@
 		"flarum-locale": {
 			"code": "si",
 			"title": "සිංහල"
-		},
-		"extiverse": {
-			"discuss": "https://discuss.flarum.org/d/27076"
 		}
 	}
 }
